@@ -143,7 +143,7 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
-![alt text](<divi/mathapp/templates/mathapp/Screenshot 2024-04-02 114156.png>)
+![alt text](<Screenshot 2024-04-02 113652.png>)
 
 ## HOMEPAGE:
 
