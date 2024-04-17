@@ -39,7 +39,7 @@ math.html
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-<title>Area of Surface</title>
+<title>SURFACE AREA OF A RIGHT CYLINDER</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
@@ -73,7 +73,7 @@ h1 {
 <body>
 <div class="edge">
     <div class="box">
-        <h1>Area of Surface</h1>
+        <h1>SURFACE AREA OF A RIGHT CYLINDER</h1>
         <h3>R DIVYA DHARSHINI (21223040042)</h3>
         <form method="POST">
             {% csrf_token %}
@@ -146,7 +146,8 @@ urlpatterns = [
 ![alt text](<divi/mathapp/templates/mathapp/Screenshot 2024-04-02 114156.png>)
 
 ## HOMEPAGE:
-![alt text](<divi/mathapp/templates/mathapp/Screenshot 2024-04-02 114143.png>)
+
+![alt text](<divi/mathapp/templates/mathapp/Screenshot 2024-04-17 130306.png>)
 
 
 ## RESULT:
